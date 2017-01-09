@@ -9,7 +9,7 @@ package juegomates;
  *
  * @author Anna
  */
-public class JuegoMatesAnaPolo {
+public class JuegoMates {
 
     /**
      * @param args the command line arguments
